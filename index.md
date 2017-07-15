@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to Steven's Navi
+# 欢迎来到Steven的导航主页
 
-You can use the [editor on GitHub](https://github.com/Steven-NEU/Navi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! This is a private `navigation webpage` created by Steven-NEU. There are websites that I often use in my study and work, including  webpages, online apps and online tools in the fields of computer application, English learning, academic research and so on. If you like it, feel free to star it in your web-browser. I will update the webpage at any time. :stuck_out_tongue_closed_eyes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你好！这个网页是由Steven-NEU创建的个人导航网页，其中都是我在学习和工作中常用的网站地址，包括一些网页、在线应用以及在线工具，涉及计算机应用、英语学习、科学研究等多个方面。如果你喜欢这个实用的导航网页，可以收藏到浏览器。我会不定期地更新这个网页。:stuck_out_tongue_closed_eyes:
 
-### Markdown
+## 日常应用
+:link:[Baidu/百度](www.baidu.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Steven-NEU/Navi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
